@@ -1,0 +1,12 @@
+.vip {
+  div {
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    font-weight: bold;
+    &:last-of-type {
+      text-align: right;
+      font-weight: normal;
+    }
+  }
+}

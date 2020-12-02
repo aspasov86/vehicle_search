@@ -1,0 +1,11 @@
+@import '../../constants/variables.scss';
+
+.card {
+  width: auto !important;
+}
+
+.segment {
+  font-weight: 900 !important;
+  background:$result-placeholder-background !important;
+  color: $result-placeholder-color !important;
+}

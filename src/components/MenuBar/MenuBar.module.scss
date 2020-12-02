@@ -4,8 +4,9 @@
     margin: 0 !important;
     padding: 1.5rem;
     font-size: 1.15rem !important;
-    border-bottom: 1px solid $menu-bar-effect-color !important;
-    box-shadow: 0 1px 15px $menu-bar-effect-color !important;
+    background: $menu-bar-background !important;
+    border-bottom: 1px solid $menu-bar-text-color !important;
+    box-shadow: 0 1px 15px $menu-bar-text-color !important;
     height: 7vh;
 }
 
