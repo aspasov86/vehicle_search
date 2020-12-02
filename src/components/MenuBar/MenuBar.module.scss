@@ -1,0 +1,19 @@
+@import '../../constants/variables.scss';
+
+.menubar {
+    margin: 0 !important;
+    padding: 1.5rem;
+    font-size: 1.15rem !important;
+    border-bottom: 1px solid $menu-bar-effect-color !important;
+    box-shadow: 0 1px 15px $menu-bar-effect-color !important;
+    height: 7vh;
+}
+
+.title {
+    font-weight: bold !important;
+    color: $menu-bar-text-color !important;
+}
+
+.logout {
+    margin-left: auto !important;
+}
